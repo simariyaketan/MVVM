@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BsImagePicker/BSImagePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BsImagePicker/ImagePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CycleViewPager/InfiniteCycleViewPager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Horizontal_Calender/HorizontalCalendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM/MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RangeSeekbar/RangeSeekBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RangeSeekbar/RangeSeekBarNum/RangeSeekBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwipeViewPagerInshorts/SwipeViewPagerInshorts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TechFlake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conductore test/ObjectBoxListDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/verticle view pager/inShorts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/verticle view pager/newsApp" vcs="Git" />
+  </component>
+</project>
